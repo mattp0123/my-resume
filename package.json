@@ -1,0 +1,19 @@
+{
+  "scripts": {
+    "dev": "cp -r public/* out/ && esbuild src/index.tsx --outfile=out/index.js --bundle --serve --servedir=out",
+    "build": "cp -r public/* out/ && esbuild src/index.tsx --outfile=out/index.js --bundle --minify"
+  },
+  "dependencies": {
+    "@radix-ui/react-icons": "^1.1.1",
+    "@stitches/react": "^1.2.8",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-markdown": "^8.0.3"
+  },
+  "devDependencies": {
+    "@types/react": "^18.0.15",
+    "@types/react-dom": "^18.0.6",
+    "esbuild": "^0.14.51",
+    "typescript": "^4.7.4"
+  }
+}

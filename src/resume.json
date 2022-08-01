@@ -1,0 +1,170 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "basics": {
+    "name": "彭子軒",
+    "label": "Web Developer",
+    "image": "",
+    "email": "mattpeng0123@gmail.com",
+    "phone": "",
+    "url": "",
+    "summary": "",
+    "location": {
+      "countryCode": "TW",
+      "address": ""
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "mattp0123",
+        "url": "https://www.linkedin.com/in/mattp0123/"
+      },
+      {
+        "network": "GitHub",
+        "username": "mattp0123",
+        "url": "https://www.github.com/mattp0123/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Seekrtech 時刻科技",
+      "position": "網頁前端工程師",
+      "startDate": "2019-09-01",
+      "endDate": "現在",
+      "highlights": [
+        "制定公司網頁開發相關規範",
+        "開發及維護公司及公司產品的官方網站",
+        "開發及維護公司產品網頁應用程式以及瀏覽器擴充套件",
+        "開發及維護公司內部網頁系統工具及外掛"
+      ],
+      "url": "https://www.linkedin.com/company/seekrtech-tw/",
+      "location": "台中市西區台灣大道二段 218 號 28 樓"
+    },
+    {
+      "name": "Seekrtech 時刻科技",
+      "position": "網頁前端工程實習生",
+      "startDate": "2019-07-01",
+      "endDate": "2019-08-31",
+      "highlights": [
+        "開發[專注花語測驗](https://www.inside.com.tw/article/13422-taiwan-developer-forest-mt-seekrtech)，是一款互動式行銷網站，負責行銷公司 app 產品《Forest 專注森林》。該網站在韓國獲得非常大的迴響，並有多家媒體報導。"
+      ],
+      "url": "https://www.linkedin.com/company/seekrtech-tw/",
+      "location": "台中市西區台灣大道二段 218 號 28 樓"
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "元智大學",
+      "area": "資訊傳播學系",
+      "studyType": "學士（已畢業）",
+      "startDate": "2014-09-30",
+      "endDate": "2018-09-30",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "網頁前端",
+      "level": "",
+      "keywords": [
+        "TypeScript",
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "React",
+        "Redux",
+        "Styled Components",
+        "Next.js"
+      ]
+    },
+    {
+      "name": "網頁後端",
+      "level": "",
+      "keywords": ["Node.js", "Express", "Postgres"]
+    },
+    {
+      "name": "DevOps",
+      "level": "",
+      "keywords": ["Vercel", "AWS"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "zh",
+      "fluency": "Native Speaker"
+    }
+  ],
+  "interests": [],
+  "references": [],
+  "projects": [
+    {
+      "name": "專注花語測驗",
+      "description": "",
+      "highlights": [],
+      "keywords": ["React"],
+      "startDate": "2019-01-01",
+      "endDate": "2021-01-01",
+      "url": "https://forest-mt.seekrtech.com",
+      "roles": ["Developer"],
+      "entity": "Entity",
+      "type": "website"
+    },
+    {
+      "name": "Seekrtech 時刻科技官方網站",
+      "description": "",
+      "highlights": [],
+      "keywords": ["React", "Next.js", "TypeScript"],
+      "startDate": "2019-01-01",
+      "endDate": "2021-01-01",
+      "url": "https://seekrtech.com",
+      "roles": ["Developer"],
+      "entity": "Entity",
+      "type": "website"
+    },
+    {
+      "name": "WaterDo 水球清單官方網站",
+      "description": "",
+      "highlights": [],
+      "keywords": ["React", "Next.js", "TypeScript"],
+      "startDate": "2019-01-01",
+      "endDate": "2021-01-01",
+      "url": "https://waterdo.seekrtech.com",
+      "roles": ["Developer"],
+      "entity": "Entity",
+      "type": "website"
+    },
+    {
+      "name": "Forest 專注森林瀏覽器擴充套件",
+      "description": "",
+      "highlights": [],
+      "keywords": ["React", "TypeScript"],
+      "startDate": "2019-01-01",
+      "endDate": "2021-01-01",
+      "url": "https://chrome.google.com/webstore/detail/forest-stay-focused-be-pr/kjacjjdnoddnpbbcjilcajfhhbdhkpgk",
+      "roles": ["Developer"],
+      "entity": "Entity",
+      "type": "website"
+    },
+    {
+      "name": "WaterDo 水球清單網頁應用程式",
+      "description": "",
+      "highlights": [],
+      "keywords": ["React", "Next.js", "TypeScript"],
+      "startDate": "2019-01-01",
+      "endDate": "2021-01-01",
+      "url": "https://waterdo.app",
+      "roles": ["Developer"],
+      "entity": "Entity",
+      "type": "website"
+    }
+  ],
+  "meta": {
+    "version": "v1.0.0",
+    "canonical": "https://github.com/jsonresume/resume-schema/blob/v1.0.0/schema.json"
+  }
+}
